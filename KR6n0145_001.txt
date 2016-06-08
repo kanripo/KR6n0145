@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:06.347794
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:39
 #+TITLE: 相宗八要直解
 #+PROPERTY: CBETA_ID X55n0901
 #+PROPERTY: ID KR6n0145
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 55, No. 901
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0145_X_001-0487a> 
 #+PROPERTY: JUAN 1
-No.901-8
- 六離合釋法式略解蕅益智旭略解
+No. 901-8六離合釋法式略解蕅益智旭略解
 「西方釋名。有其六種。一依主。二持業。三有財。四相違。五帶數。六隣近。以此六種有離合故。一一具二。若單一字名。即非六釋。以不得成離合相故。」
-【已上總標。已下別釋。即為六也。】
+【巳上總標。巳下別釋。即為六也。】
 「初依主者。謂所依為主。如說眼識識依眼起。即眼之識。故名眼識舉眼之主以表於識也。亦名依士釋。此即分取他名如眼識亦名為色識耳識亦名為聲識等。如子取父名名為依主。父取子名。即名依士。所依劣故。」
 <pb:KR6n0145_X_001-0487b>
 【識如子。根如父。故眼識等名為依主。識如父。塵如子。故色識等名為依士。蓋主勝而士劣也。餘可知。】
