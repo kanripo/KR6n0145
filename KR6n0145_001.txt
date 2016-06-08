@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:06.347794
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:39
 #+TITLE: 相宗八要直解
 #+PROPERTY: CBETA_ID X55n0901
 #+PROPERTY: ID KR6n0145
